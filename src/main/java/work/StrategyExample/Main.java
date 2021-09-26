@@ -11,7 +11,7 @@ public class Main {
         System.out.println(handler.function(6, 4, ADD));
         System.out.println(handler.function(6, 4, SUBTRACT));
         System.out.println(handler.function(6, 4, MULTIPLY));
-        System.out.println(handler.function(6, 4, DIVIDE));
+        System.out.println(handler.function(6, 0, DIVIDE));
         System.out.println(handler.function("6", "4", ADD));
     }
 
